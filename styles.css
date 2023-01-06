@@ -1,0 +1,17 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box sizing: border-box
+    font-family: sans-serif;
+}
+h1 {
+    color: blue;
+    width: 900px;
+}
+body {
+    padding-top: 20px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
